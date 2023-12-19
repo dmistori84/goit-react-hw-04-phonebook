@@ -1,0 +1,42 @@
+.form {
+    display: inline-block;
+    
+}
+
+.formLabel {
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    padding-top: 8px;
+}
+
+.input {
+    margin-left: 24px;
+    border: 1px solid rgb(64, 0, 255); 
+    border-radius: 10px;
+    border-bottom: 1px solid #040e4f;
+}
+
+.btnForm {
+    display: block;
+    margin-top: 8px;
+    cursor: pointer;
+    border: none;
+    margin-left: auto;
+        margin-right: auto;
+    padding: 4px;
+    border-radius: 6px;
+    background-color: rgb(197, 248, 235);
+    box-shadow: 0px 0px 1px 1px rgb(197,
+        248,
+        235);
+}
+.btnForm:hover{
+    background-color: rgb(0, 136, 255);
+    color: aliceblue;
+    box-shadow: 0px 0px 1px 1px rgb(0,
+        136,
+        255);
+    transition: 0.7s;   
+}
+

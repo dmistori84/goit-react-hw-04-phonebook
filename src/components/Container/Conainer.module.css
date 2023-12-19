@@ -1,0 +1,14 @@
+.container {
+    width: max-content;
+    margin: 10px;
+    padding: 8px 8px;
+    background: linear-gradient(blue, pink);
+}
+
+.container h1, h2 {
+    text-align: center;
+    margin: 0;
+    padding: 8px 8px;
+    color: antiquewhite;
+}
+

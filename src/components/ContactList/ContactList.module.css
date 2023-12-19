@@ -1,0 +1,6 @@
+.list {
+    width: max-content;    
+    list-style: none;
+    padding-left: 24px;
+}
+
